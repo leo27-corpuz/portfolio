@@ -109,7 +109,7 @@ export default{
                         {
                             title: 'github',
                             icon: 'fa-brands fa-github',
-                            link: ''
+                            link: 'https://github.com/leo27-corpuz/portfolio'
                         }
                     ]
                 },
