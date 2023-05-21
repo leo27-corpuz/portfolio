@@ -1,0 +1,24 @@
+{
+  "name": "p_website",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "file-saver": "^2.0.5",
+    "nprogress": "^0.2.0",
+    "pinia": "^2.0.32",
+    "v-lazy-image": "^2.1.1",
+    "vue": "^3.2.47",
+    "vue-on-click-outside": "^1.0.3",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.1.4"
+  }
+}
