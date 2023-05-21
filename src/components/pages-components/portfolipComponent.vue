@@ -123,7 +123,7 @@ export default{
                         {
                             title: 'github',
                             icon: 'fa-brands fa-github',
-                            link: ''
+                            link: 'https://github.com/leo27-corpuz/JWT-authentication-Express'
                         }
                     ]
                 },
@@ -137,7 +137,7 @@ export default{
                         {
                             title: 'github',
                             icon: 'fa-brands fa-github',
-                            link: ''
+                            link: 'https://github.com/leo27-corpuz/passport-auth-local-expressjs'
                         }
                     ]
                 },
@@ -151,7 +151,7 @@ export default{
                         {
                             title: 'github',
                             icon: 'fa-brands fa-github',
-                            link: ''
+                            link: 'https://github.com/leo27-corpuz/crud-expressjs'
                         }
                     ]
                 },
@@ -228,14 +228,14 @@ export default{
                 {
                     id:12,
                     title: 'Landinng page for online shop.',
-                    description: 'I created a landing page for online shop that display all the projuct of the webiste.',
+                    description: 'I created a landing page for online shop that display all the product of the webiste.',
                     techUsed: ['HTML', 'CSS', 'Javascript'],
                     image: '/images/shop.png',
                     links: [
                         {
                             title: 'github',
                             icon: 'fa-brands fa-github',
-                            link: ''
+                            link: 'https://github.com/leo27-corpuz/landing-page-online-shop'
                         }
                     ]
                 },
@@ -249,7 +249,7 @@ export default{
                         {
                             title: 'github',
                             icon: 'fa-brands fa-github',
-                            link: ''
+                            link: 'https://github.com/leo27-corpuz/landing-page-template'
                         }
                     ]
                 },
