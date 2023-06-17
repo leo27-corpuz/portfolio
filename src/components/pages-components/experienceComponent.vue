@@ -32,7 +32,7 @@ export default{
             skillsInfo: {
                 title: 'Experience',
                 image: '/images/exp.svg',
-                description: "We humans need tp Experience everything around technoloy for us to evolve and learn."
+                description: "We humanss need tp Experience everything around technoloy for us to evolve and learn."
             },
             skillsList: [
                 {
