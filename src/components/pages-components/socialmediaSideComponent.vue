@@ -19,7 +19,7 @@ export default{
                 },
                 {
                     title: 'Instagram',
-                    link: 'https://www.instagram.com/leycorpuzjr/',
+                    link: 'https://www.instagram.com/leycrpzjr/',
                     icon: 'fa-brands fa-instagram'
                 },
                 {
