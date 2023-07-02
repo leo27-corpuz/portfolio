@@ -36,6 +36,11 @@ export default{
             },
             skillsList: [
                 {
+                   title: 'Junior Web Developer',
+                   icon: 'fa-solid fa-code',
+                   'description': 'SVEN - The Digital 1st Agency (Current Work).'
+                },
+                {
                    title: 'Fullstack developer in Corporate Work',
                    icon: 'fa-solid fa-code',
                    'description': '(Innovative Solution for Strategic Organization Inc.) for less than 1 year.'
