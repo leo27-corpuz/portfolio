@@ -24,7 +24,7 @@ export default{
                 },
                 {
                     title: 'Linkedln',
-                    link: 'https://www.linkedin.com/in/leo-corpuz-0b6333254/',
+                    link: 'https://www.linkedin.com/in/leocorpuzjr/',
                     icon: 'fa-brands fa-linkedin-in'
                 },
                 {
