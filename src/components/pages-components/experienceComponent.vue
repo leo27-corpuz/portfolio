@@ -38,7 +38,7 @@ export default{
                 {
                    title: 'Junior Web Developer',
                    icon: 'fa-solid fa-code',
-                   'description': 'SVEN - The Digital 1st Agency (Current Work).'
+                   'description': 'SVEN INGENUITY, INC (Current Work).'
                 },
                 {
                    title: 'Fullstack developer in Corporate Work',
