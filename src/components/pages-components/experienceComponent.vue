@@ -38,7 +38,7 @@ export default{
                 {
                    title: 'Junior Web Developer',
                    icon: 'fa-solid fa-code',
-                   'description': 'SVEN INGENUITY, INC (Current Work).'
+                   'description': 'SVEN INGENUITY, INC ( June 27, 2023 - Current Work).'
                 },
                 {
                    title: 'Fullstack developer in Corporate Work',
